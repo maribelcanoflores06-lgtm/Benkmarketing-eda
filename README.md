@@ -81,11 +81,11 @@ y subir el archivo `BankMarketing.csv` incluido en este repositorio.
 
 ## 🌐 Aplicación desplegada
 
-🔗 **Link de la app en Streamlit Cloud:** _[completar con la URL una vez desplegada]_
+🔗 **Link de la app en Streamlit Cloud:** _[https://benkmarketing-eda-3mvzryhtsamyszhwu6jpal.streamlit.app/]_
 
 ## 📎 Links relevantes
 
-- Repositorio GitHub: _[completar con la URL del repo]_
+- Repositorio GitHub: _[https://github.com/maribelcanoflores06-lgtm/Benkmarketing-eda]_
 - Dataset original: `BankMarketing.csv` (incluido en este repositorio)
 
 ## 📸 Capturas de la app
