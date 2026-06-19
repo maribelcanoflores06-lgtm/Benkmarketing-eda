@@ -89,6 +89,7 @@ y subir el archivo `BankMarketing.csv` incluido en este repositorio.
 - Dataset original: `BankMarketing.csv` (incluido en este repositorio)
 
 ## 📸 Capturas de la app
+![Pantalla Home](IMG_2445.jpeg)
+![Pantalla EDA](IMG_2446.jpeg)
+![Pantalla Conclusiones](IMG_2447.jpeg)
 
-_[Agregar aquí 2-3 capturas de pantalla de los módulos Home, EDA y Conclusiones
-una vez desplegada la app]_
