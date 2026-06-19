@@ -90,6 +90,7 @@ y subir el archivo `BankMarketing.csv` incluido en este repositorio.
 
 ## 📸 Capturas de la app
 ![Pantalla Home](IMG_2445.jpeg)
-![Pantalla EDA](IMG_2446.jpeg)
-![Pantalla Conclusiones](IMG_2447.jpeg)
+![Pantalla EDA](IMG_2446.png)
+![Pantalla Conclusiones](IMG_2447.png)
+
 
